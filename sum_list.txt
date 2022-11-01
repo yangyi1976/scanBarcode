@@ -1,0 +1,10 @@
+my_str_2 = '246'
+
+total_2 = sum(int(d) for d in my_str_2)
+
+
+a=‘11111’
+>>> i=map(int,a)
+>>> i
+<map object at 0x00000175FFFD4C88>
+>>> sum(i)
